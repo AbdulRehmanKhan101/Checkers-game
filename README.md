@@ -29,7 +29,7 @@ A simple Checkers game made using C++ and SFML, allowing two players to play tur
 - **Font:** `arial.ttf`
 
 ## 📺 Demo Video
-_Link your LinkedIn post here_
+https://www.linkedin.com/posts/activity-7329872264114458624-yVib?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfs_7QBD3xg96yhAjfss-T-f3fEhm87oYI
 
 ## 📄 Report
 See the full project report in the `Checkers Project Report` document (attached in submission).
